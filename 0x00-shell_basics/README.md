@@ -1,3 +1,1 @@
-ALX
-SOFTWARE
-ENGINEER
+Basic shell commands for Beginners
